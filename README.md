@@ -1,10 +1,10 @@
-# Omni Theme
+# Omni Theme for Visual Studio
 
 Dark theme created by <a href="https://rocketseat.com.br?ref=omnitheme">Rocketseat</a> 🚀
 
 ## Themes
 
-Omni currently supports 34 applications. You can find them below:
+Omni currently supports 35 applications. You can find them below:
 
 ### Browsers
 
@@ -17,6 +17,7 @@ Omni currently supports 34 applications. You can find them below:
 - [Insomnia](https://github.com/getomni/insomnia)
 - [JetBrains IDEs](https://github.com/getomni/jetbrains)
 - [Visual Studio Code](https://github.com/getomni/visual-studio-code)
+- [Visual Studio](https://github.com/Ir1sDev/Omni-VisualStudio)
 
 ### Productivity
 
